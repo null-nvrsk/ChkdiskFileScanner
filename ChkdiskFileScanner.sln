@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChkdiskFileScanner", "ChkdiskFileScanner.csproj", "{D3F3E544-7D73-478C-A53B-46BE39449077}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3F3E544-7D73-478C-A53B-46BE39449077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F3E544-7D73-478C-A53B-46BE39449077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F3E544-7D73-478C-A53B-46BE39449077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F3E544-7D73-478C-A53B-46BE39449077}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF95DE14-48AD-4691-801C-94532ACB88D5}
+	EndGlobalSection
+EndGlobal
